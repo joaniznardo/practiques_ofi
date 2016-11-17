@@ -1,0 +1,1009 @@
+<?xml version="1.0"?>
+<root ptr="0x427df40" id="4" symbol="11SwRootFrame" lower="5">
+ <shells>
+  <swCursorShell>
+   <swViewShell/>
+   <m_pCurrentCursor>
+    <swPaM>
+     <point>
+      <swPosition nNode="40" nContent="7"/>
+     </point>
+    </swPaM>
+   </m_pCurrentCursor>
+  </swCursorShell>
+ </shells>
+ <infos>
+  <bounds left="284" top="284" width="18669" height="188058" mbFixSize="false"/>
+  <prtBounds left="0" top="0" width="18669" height="188058"/>
+ </infos>
+ <page ptr="0x7f3692e340e8" id="5" symbol="11SwPageFrame" next="12" upper="4" lower="6">
+  <infos>
+   <bounds left="7047" top="284" width="11906" height="16838" mbFixSize="true"/>
+   <prtBounds left="1134" top="1134" width="9638" height="14570"/>
+  </infos>
+  <body ptr="0x7f3692e360c8" id="6" symbol="11SwBodyFrame" upper="5" lower="7">
+   <infos>
+    <bounds left="8181" top="1418" width="9638" height="14570" mbFixSize="true"/>
+    <prtBounds left="0" top="0" width="9638" height="14570"/>
+   </infos>
+   <txt ptr="0x7f3692e37108" id="7" symbol="11SwTextFrame" next="8" upper="6" txtNodeIndex="23">
+    <infos>
+     <bounds left="8181" top="1418" width="9638" height="884" mbFixSize="false"/>
+     <prtBounds left="0" top="240" width="9638" height="644"/>
+    </infos>
+El receptari de Joan    <Special nLength="0" nType="POR_MARGIN" rText="" nWidth="2158"/>
+    <Text nLength="20" nType="POR_TXT" nHeight="644" nWidth="5323"/>
+    <Special nLength="0" nType="POR_MARGIN" rText="" nWidth="2158"/>
+    <LineBreak nWidth="9639"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f3692e37210" id="8" symbol="11SwTextFrame" prev="7" upper="6" txtNodeIndex="24">
+    <infos>
+     <bounds left="8181" top="2302" width="9638" height="396" mbFixSize="false"/>
+     <prtBounds left="0" top="120" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x7f3692e341d0" id="12" symbol="11SwPageFrame" next="26" prev="5" upper="4" lower="13">
+  <infos>
+   <bounds left="7047" top="17406" width="11906" height="16838" mbFixSize="true"/>
+   <prtBounds left="1134" top="1134" width="9638" height="14570"/>
+  </infos>
+  <body ptr="0x7f3692e36190" id="13" symbol="11SwBodyFrame" upper="12" lower="10">
+   <infos>
+    <bounds left="8181" top="18540" width="9638" height="14570" mbFixSize="true"/>
+    <prtBounds left="0" top="0" width="9638" height="14570"/>
+   </infos>
+   <section ptr="0x7f3692e27100" id="10" symbol="14SwSectionFrame" next="14" upper="13" lower="11">
+    <infos>
+     <bounds left="8181" top="18540" width="9638" height="608" mbFixSize="false"/>
+     <prtBounds left="0" top="240" width="9638" height="368"/>
+    </infos>
+    <txt ptr="0x7f3692e37318" id="11" symbol="11SwTextFrame" upper="10" txtNodeIndex="27">
+     <infos>
+      <bounds left="8181" top="18780" width="9638" height="368" mbFixSize="false"/>
+      <prtBounds left="0" top="0" width="9638" height="368"/>
+     </infos>
+receptes de Joan     <Text nLength="16" nType="POR_PARA" nHeight="368" nWidth="2615"/>
+     <LineBreak nWidth="2615"/>
+     <Finish/>
+    </txt>
+   </section>
+   <section ptr="0x7f3692e27200" id="14" symbol="14SwSectionFrame" next="24" prev="10" upper="13" lower="15">
+    <infos>
+     <bounds left="8181" top="19148" width="9638" height="2604" mbFixSize="false"/>
+     <prtBounds left="0" top="120" width="9638" height="2484"/>
+    </infos>
+    <txt ptr="0x7f3692e37420" id="15" symbol="11SwTextFrame" next="16" upper="14" txtNodeIndex="29">
+     <infos>
+      <bounds left="8181" top="19268" width="9638" height="276" mbFixSize="false"/>
+      <prtBounds left="0" top="0" width="9638" height="276"/>
+     </infos>
+Primers*3     <Text nLength="7" nType="POR_TXT" nHeight="276" nWidth="747"/>
+     <Text nLength="1" nType="POR_TABRIGHT" nHeight="276" nWidth="8771"/>
+     <Text nLength="1" nType="POR_TXT" nHeight="276" nWidth="120"/>
+     <LineBreak nWidth="9638"/>
+     <Finish/>
+    </txt>
+    <txt ptr="0x7f3692e37528" id="16" symbol="11SwTextFrame" next="17" prev="15" upper="14" txtNodeIndex="30">
+     <infos>
+      <bounds left="8181" top="19544" width="9638" height="276" mbFixSize="false"/>
+      <prtBounds left="283" top="0" width="9355" height="276"/>
+     </infos>
+amanida de cranc*5     <Text nLength="16" nType="POR_TXT" nHeight="276" nWidth="1679"/>
+     <Text nLength="1" nType="POR_TABRIGHT" nHeight="276" nWidth="7556"/>
+     <Text nLength="1" nType="POR_TXT" nHeight="276" nWidth="120"/>
+     <LineBreak nWidth="9355"/>
+     <Finish/>
+    </txt>
+    <txt ptr="0x7f3692e37630" id="17" symbol="11SwTextFrame" next="18" prev="16" upper="14" txtNodeIndex="31">
+     <infos>
+      <bounds left="8181" top="19820" width="9638" height="276" mbFixSize="false"/>
+      <prtBounds left="283" top="0" width="9355" height="276"/>
+     </infos>
+sopa freda de meló amb pernil*7     <Text nLength="29" nType="POR_TXT" nHeight="276" nWidth="2912"/>
+     <Text nLength="1" nType="POR_TABRIGHT" nHeight="276" nWidth="6323"/>
+     <Text nLength="1" nType="POR_TXT" nHeight="276" nWidth="120"/>
+     <LineBreak nWidth="9355"/>
+     <Finish/>
+    </txt>
+    <txt ptr="0x7f3692e37738" id="18" symbol="11SwTextFrame" next="19" prev="17" upper="14" txtNodeIndex="32">
+     <infos>
+      <bounds left="8181" top="20096" width="9638" height="276" mbFixSize="false"/>
+      <prtBounds left="0" top="0" width="9638" height="276"/>
+     </infos>
+Segons*9     <Text nLength="6" nType="POR_TXT" nHeight="276" nWidth="693"/>
+     <Text nLength="1" nType="POR_TABRIGHT" nHeight="276" nWidth="8825"/>
+     <Text nLength="1" nType="POR_TXT" nHeight="276" nWidth="120"/>
+     <LineBreak nWidth="9638"/>
+     <Finish/>
+    </txt>
+    <txt ptr="0x7f3692e37840" id="19" symbol="11SwTextFrame" next="20" prev="18" upper="14" txtNodeIndex="33">
+     <infos>
+      <bounds left="8181" top="20372" width="9638" height="276" mbFixSize="false"/>
+      <prtBounds left="283" top="0" width="9355" height="276"/>
+     </infos>
+arròs al forn*11     <Text nLength="13" nType="POR_TXT" nHeight="276" nWidth="1173"/>
+     <Text nLength="1" nType="POR_TABRIGHT" nHeight="276" nWidth="7951"/>
+     <Text nLength="2" nType="POR_TXT" nHeight="276" nWidth="231"/>
+     <LineBreak nWidth="9355"/>
+     <Finish/>
+    </txt>
+    <txt ptr="0x7f3692e37948" id="20" symbol="11SwTextFrame" next="21" prev="19" upper="14" txtNodeIndex="34">
+     <infos>
+      <bounds left="8181" top="20648" width="9638" height="276" mbFixSize="false"/>
+      <prtBounds left="283" top="0" width="9355" height="276"/>
+     </infos>
+Fideuà*13     <Text nLength="6" nType="POR_TXT" nHeight="276" nWidth="653"/>
+     <Text nLength="1" nType="POR_TABRIGHT" nHeight="276" nWidth="8462"/>
+     <Text nLength="2" nType="POR_TXT" nHeight="276" nWidth="240"/>
+     <LineBreak nWidth="9355"/>
+     <Finish/>
+    </txt>
+    <txt ptr="0x7f3692e37a50" id="21" symbol="11SwTextFrame" next="22" prev="20" upper="14" txtNodeIndex="35">
+     <infos>
+      <bounds left="8181" top="20924" width="9638" height="276" mbFixSize="false"/>
+      <prtBounds left="0" top="0" width="9638" height="276"/>
+     </infos>
+Postres*15     <Text nLength="7" nType="POR_TXT" nHeight="276" nWidth="693"/>
+     <Text nLength="1" nType="POR_TABRIGHT" nHeight="276" nWidth="8705"/>
+     <Text nLength="2" nType="POR_TXT" nHeight="276" nWidth="240"/>
+     <LineBreak nWidth="9638"/>
+     <Finish/>
+    </txt>
+    <txt ptr="0x7f3692e37b58" id="22" symbol="11SwTextFrame" next="23" prev="21" upper="14" txtNodeIndex="36">
+     <infos>
+      <bounds left="8181" top="21200" width="9638" height="276" mbFixSize="false"/>
+      <prtBounds left="283" top="0" width="9355" height="276"/>
+     </infos>
+Sopa de síndria*17     <Text nLength="15" nType="POR_TXT" nHeight="276" nWidth="1480"/>
+     <Text nLength="1" nType="POR_TABRIGHT" nHeight="276" nWidth="7635"/>
+     <Text nLength="2" nType="POR_TXT" nHeight="276" nWidth="240"/>
+     <LineBreak nWidth="9355"/>
+     <Finish/>
+    </txt>
+    <txt ptr="0x7f3692e37c60" id="23" symbol="11SwTextFrame" prev="22" upper="14" txtNodeIndex="37">
+     <infos>
+      <bounds left="8181" top="21476" width="9638" height="276" mbFixSize="false"/>
+      <prtBounds left="283" top="0" width="9355" height="276"/>
+     </infos>
+Llesquetes en ou*19     <Text nLength="16" nType="POR_TXT" nHeight="276" nWidth="1613"/>
+     <Text nLength="1" nType="POR_TABRIGHT" nHeight="276" nWidth="7502"/>
+     <Text nLength="2" nType="POR_TXT" nHeight="276" nWidth="240"/>
+     <LineBreak nWidth="9355"/>
+     <Finish/>
+    </txt>
+   </section>
+   <txt ptr="0x7f3692e37d68" id="24" symbol="11SwTextFrame" prev="14" upper="13" txtNodeIndex="39">
+    <infos>
+     <bounds left="8181" top="21752" width="9638" height="276" mbFixSize="false"/>
+     <prtBounds left="0" top="0" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x7f3692e342b8" id="26" symbol="11SwPageFrame" next="39" prev="12" upper="4" lower="27">
+  <infos>
+   <bounds left="7047" top="34528" width="11906" height="16838" mbFixSize="true"/>
+   <prtBounds left="1134" top="1134" width="9638" height="14570"/>
+  </infos>
+  <body ptr="0x7f3692e36258" id="27" symbol="11SwBodyFrame" next="28" upper="26" lower="25">
+   <infos>
+    <bounds left="8181" top="35662" width="9638" height="13624" mbFixSize="true"/>
+    <prtBounds left="0" top="0" width="9638" height="13624"/>
+   </infos>
+   <txt ptr="0x7f3692e37e70" id="25" symbol="11SwTextFrame" upper="27" txtNodeIndex="40">
+    <infos>
+     <bounds left="8181" top="35662" width="9638" height="659" mbFixSize="false"/>
+     <prtBounds left="0" top="240" width="9638" height="419"/>
+    </infos>
+Primers    <Text nLength="7" nType="POR_PARA" nHeight="419" nWidth="1356"/>
+    <LineBreak nWidth="1356"/>
+    <Finish/>
+   </txt>
+  </body>
+  <footer ptr="0x7f3690010000" id="28" symbol="13SwFooterFrame" prev="27" upper="26" lower="29" fmtName="Right footer" fmtPtr="0x7f3692e30498">
+   <infos>
+    <bounds left="8181" top="49286" width="9638" height="946" mbFixSize="false"/>
+    <prtBounds left="0" top="283" width="9638" height="663"/>
+   </infos>
+   <tab ptr="0x7f3690011000" id="29" symbol="10SwTabFrame" next="37" upper="28" lower="30">
+    <infos>
+     <bounds left="8181" top="49569" width="9638" height="387" mbFixSize="false"/>
+     <prtBounds left="0" top="0" width="9638" height="387"/>
+    </infos>
+    <row ptr="0x7f3690012000" id="30" symbol="10SwRowFrame" upper="29" lower="31">
+     <infos>
+      <bounds left="8181" top="49569" width="9638" height="387" mbFixSize="false"/>
+      <prtBounds left="0" top="0" width="9638" height="387"/>
+     </infos>
+     <cell ptr="0x7f3690013000" id="31" symbol="11SwCellFrame" next="33" upper="30" lower="32">
+      <infos>
+       <bounds left="8181" top="49569" width="3212" height="387" mbFixSize="false"/>
+       <prtBounds left="55" top="56" width="3102" height="276"/>
+      </infos>
+      <txt ptr="0x7f3690014008" id="32" symbol="11SwTextFrame" upper="31" txtNodeIndex="8">
+       <infos>
+        <bounds left="8236" top="49625" width="3102" height="276" mbFixSize="false"/>
+        <prtBounds left="0" top="0" width="3102" height="276"/>
+       </infos>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7f36900130d0" id="33" symbol="11SwCellFrame" next="35" prev="31" upper="30" lower="34">
+      <infos>
+       <bounds left="11393" top="49569" width="3213" height="387" mbFixSize="false"/>
+       <prtBounds left="55" top="56" width="3103" height="276"/>
+      </infos>
+      <txt ptr="0x7f3690014110" id="34" symbol="11SwTextFrame" upper="33" txtNodeIndex="11">
+       <infos>
+        <bounds left="11448" top="49625" width="3103" height="276" mbFixSize="false"/>
+        <prtBounds left="0" top="0" width="3103" height="276"/>
+       </infos>
+*       <Special nLength="1" nType="POR_FLD" rText="3"/>
+       <LineBreak nWidth="120"/>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7f36900131a0" id="35" symbol="11SwCellFrame" prev="33" upper="30" lower="36">
+      <infos>
+       <bounds left="14606" top="49569" width="3213" height="387" mbFixSize="false"/>
+       <prtBounds left="55" top="56" width="3103" height="276"/>
+      </infos>
+      <txt ptr="0x7f3690014218" id="36" symbol="11SwTextFrame" upper="35" txtNodeIndex="14">
+       <infos>
+        <bounds left="14661" top="49625" width="3103" height="276" mbFixSize="false"/>
+        <prtBounds left="0" top="0" width="3103" height="276"/>
+       </infos>
+       <Text nLength="0" nType="POR_PARA" nHeight="276"/>
+       <LineBreak/>
+       <Finish/>
+      </txt>
+     </cell>
+    </row>
+   </tab>
+   <txt ptr="0x7f3690014320" id="37" symbol="11SwTextFrame" prev="29" upper="28" txtNodeIndex="17">
+    <infos>
+     <bounds left="8181" top="49956" width="9638" height="276" mbFixSize="false"/>
+     <prtBounds left="0" top="0" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+  </footer>
+ </page>
+ <page ptr="0x7f3692e343a0" id="39" symbol="11SwPageFrame" next="40" prev="26" upper="4">
+  <infos>
+   <bounds left="18953" top="34528" width="0" height="0" mbFixSize="true"/>
+   <prtBounds left="0" top="0" width="0" height="0"/>
+  </infos>
+ </page>
+ <page ptr="0x7f3692e34488" id="40" symbol="11SwPageFrame" next="55" prev="39" upper="4" lower="41">
+  <infos>
+   <bounds left="7047" top="51650" width="11906" height="16838" mbFixSize="true"/>
+   <prtBounds left="1134" top="1134" width="9638" height="14570"/>
+  </infos>
+  <body ptr="0x7f3692e36320" id="41" symbol="11SwBodyFrame" next="42" upper="40" lower="38">
+   <infos>
+    <bounds left="8181" top="52784" width="9638" height="13624" mbFixSize="true"/>
+    <prtBounds left="0" top="0" width="9638" height="13624"/>
+   </infos>
+   <txt ptr="0x7f3690014428" id="38" symbol="11SwTextFrame" next="52" upper="41" txtNodeIndex="41">
+    <infos>
+     <bounds left="8181" top="52784" width="9638" height="571" mbFixSize="false"/>
+     <prtBounds left="0" top="200" width="9638" height="371"/>
+    </infos>
+amanida de cranc    <Text nLength="16" nType="POR_PARA" nHeight="371" nWidth="2720"/>
+    <LineBreak nWidth="2720"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f3690014950" id="52" symbol="11SwTextFrame" next="53" prev="38" upper="41" txtNodeIndex="42">
+    <infos>
+     <bounds left="8181" top="53355" width="9638" height="584" mbFixSize="false"/>
+     <prtBounds left="0" top="260" width="9638" height="324"/>
+    </infos>
+Ingredients    <Text nLength="11" nType="POR_PARA" nHeight="324" nWidth="1520"/>
+    <LineBreak nWidth="1520"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f3690014a58" id="53" symbol="11SwTextFrame" prev="52" upper="41" txtNodeIndex="43">
+    <infos>
+     <bounds left="8181" top="53939" width="9638" height="584" mbFixSize="false"/>
+     <prtBounds left="0" top="260" width="9638" height="324"/>
+    </infos>
+preparació    <Text nLength="10" nType="POR_PARA" nHeight="324" nWidth="1442"/>
+    <LineBreak nWidth="1442"/>
+    <Finish/>
+   </txt>
+  </body>
+  <footer ptr="0x7f36900100c8" id="42" symbol="13SwFooterFrame" prev="41" upper="40" lower="43" fmtName="Right footer" fmtPtr="0x7f3692e30498">
+   <infos>
+    <bounds left="8181" top="66408" width="9638" height="946" mbFixSize="false"/>
+    <prtBounds left="0" top="283" width="9638" height="663"/>
+   </infos>
+   <tab ptr="0x7f3690011100" id="43" symbol="10SwTabFrame" next="51" upper="42" lower="44">
+    <infos>
+     <bounds left="8181" top="66691" width="9638" height="387" mbFixSize="false"/>
+     <prtBounds left="0" top="0" width="9638" height="387"/>
+    </infos>
+    <row ptr="0x7f36900120e8" id="44" symbol="10SwRowFrame" upper="43" lower="45">
+     <infos>
+      <bounds left="8181" top="66691" width="9638" height="387" mbFixSize="false"/>
+      <prtBounds left="0" top="0" width="9638" height="387"/>
+     </infos>
+     <cell ptr="0x7f3690013270" id="45" symbol="11SwCellFrame" next="47" upper="44" lower="46">
+      <infos>
+       <bounds left="8181" top="66691" width="3212" height="387" mbFixSize="false"/>
+       <prtBounds left="55" top="56" width="3102" height="276"/>
+      </infos>
+      <txt ptr="0x7f3690014530" id="46" symbol="11SwTextFrame" upper="45" txtNodeIndex="8">
+       <infos>
+        <bounds left="8236" top="66747" width="3102" height="276" mbFixSize="false"/>
+        <prtBounds left="0" top="0" width="3102" height="276"/>
+       </infos>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7f3690013340" id="47" symbol="11SwCellFrame" next="49" prev="45" upper="44" lower="48">
+      <infos>
+       <bounds left="11393" top="66691" width="3213" height="387" mbFixSize="false"/>
+       <prtBounds left="55" top="56" width="3103" height="276"/>
+      </infos>
+      <txt ptr="0x7f3690014638" id="48" symbol="11SwTextFrame" upper="47" txtNodeIndex="11">
+       <infos>
+        <bounds left="11448" top="66747" width="3103" height="276" mbFixSize="false"/>
+        <prtBounds left="0" top="0" width="3103" height="276"/>
+       </infos>
+*       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7f3690013410" id="49" symbol="11SwCellFrame" prev="47" upper="44" lower="50">
+      <infos>
+       <bounds left="14606" top="66691" width="3213" height="387" mbFixSize="false"/>
+       <prtBounds left="55" top="56" width="3103" height="276"/>
+      </infos>
+      <txt ptr="0x7f3690014740" id="50" symbol="11SwTextFrame" upper="49" txtNodeIndex="14">
+       <infos>
+        <bounds left="14661" top="66747" width="3103" height="276" mbFixSize="false"/>
+        <prtBounds left="0" top="0" width="3103" height="276"/>
+       </infos>
+       <Finish/>
+      </txt>
+     </cell>
+    </row>
+   </tab>
+   <txt ptr="0x7f3690014848" id="51" symbol="11SwTextFrame" prev="43" upper="42" txtNodeIndex="17">
+    <infos>
+     <bounds left="8181" top="67078" width="9638" height="276" mbFixSize="false"/>
+     <prtBounds left="0" top="0" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+  </footer>
+ </page>
+ <page ptr="0x7f3692e34570" id="55" symbol="11SwPageFrame" next="56" prev="40" upper="4">
+  <infos>
+   <bounds left="18953" top="51650" width="0" height="0" mbFixSize="true"/>
+   <prtBounds left="0" top="0" width="0" height="0"/>
+  </infos>
+ </page>
+ <page ptr="0x7f3692e34658" id="56" symbol="11SwPageFrame" next="69" prev="55" upper="4" lower="57">
+  <infos>
+   <bounds left="7047" top="68772" width="11906" height="16838" mbFixSize="true"/>
+   <prtBounds left="1134" top="1134" width="9638" height="14570"/>
+  </infos>
+  <body ptr="0x7f3692e363e8" id="57" symbol="11SwBodyFrame" next="58" upper="56" lower="54">
+   <infos>
+    <bounds left="8181" top="69906" width="9638" height="13624" mbFixSize="true"/>
+    <prtBounds left="0" top="0" width="9638" height="13624"/>
+   </infos>
+   <txt ptr="0x7f3690014b60" id="54" symbol="11SwTextFrame" upper="57" txtNodeIndex="44">
+    <infos>
+     <bounds left="8181" top="69906" width="9638" height="571" mbFixSize="false"/>
+     <prtBounds left="0" top="200" width="9638" height="371"/>
+    </infos>
+sopa freda de meló amb pernil    <Finish/>
+   </txt>
+  </body>
+  <footer ptr="0x7f3690010190" id="58" symbol="13SwFooterFrame" prev="57" upper="56" lower="59" fmtName="Right footer" fmtPtr="0x7f3692e30498">
+   <infos>
+    <bounds left="8181" top="83530" width="9638" height="946" mbFixSize="false"/>
+    <prtBounds left="0" top="283" width="9638" height="663"/>
+   </infos>
+   <tab ptr="0x7f3690011200" id="59" symbol="10SwTabFrame" next="67" upper="58" lower="60">
+    <infos>
+     <bounds left="8181" top="83813" width="9638" height="387" mbFixSize="false"/>
+     <prtBounds left="0" top="0" width="9638" height="387"/>
+    </infos>
+    <row ptr="0x7f36900121d0" id="60" symbol="10SwRowFrame" upper="59" lower="61">
+     <infos>
+      <bounds left="8181" top="83813" width="9638" height="387" mbFixSize="false"/>
+      <prtBounds left="0" top="0" width="9638" height="387"/>
+     </infos>
+     <cell ptr="0x7f36900134e0" id="61" symbol="11SwCellFrame" next="63" upper="60" lower="62">
+      <infos>
+       <bounds left="8181" top="83813" width="3212" height="387" mbFixSize="false"/>
+       <prtBounds left="55" top="56" width="3102" height="276"/>
+      </infos>
+      <txt ptr="0x7f3690014c68" id="62" symbol="11SwTextFrame" upper="61" txtNodeIndex="8">
+       <infos>
+        <bounds left="8236" top="83869" width="3102" height="276" mbFixSize="false"/>
+        <prtBounds left="0" top="0" width="3102" height="276"/>
+       </infos>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7f36900135b0" id="63" symbol="11SwCellFrame" next="65" prev="61" upper="60" lower="64">
+      <infos>
+       <bounds left="11393" top="83813" width="3213" height="387" mbFixSize="false"/>
+       <prtBounds left="55" top="56" width="3103" height="276"/>
+      </infos>
+      <txt ptr="0x7f3690014d70" id="64" symbol="11SwTextFrame" upper="63" txtNodeIndex="11">
+       <infos>
+        <bounds left="11448" top="83869" width="3103" height="276" mbFixSize="false"/>
+        <prtBounds left="0" top="0" width="3103" height="276"/>
+       </infos>
+*       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7f3690013680" id="65" symbol="11SwCellFrame" prev="63" upper="60" lower="66">
+      <infos>
+       <bounds left="14606" top="83813" width="3213" height="387" mbFixSize="false"/>
+       <prtBounds left="55" top="56" width="3103" height="276"/>
+      </infos>
+      <txt ptr="0x7f3690014e78" id="66" symbol="11SwTextFrame" upper="65" txtNodeIndex="14">
+       <infos>
+        <bounds left="14661" top="83869" width="3103" height="276" mbFixSize="false"/>
+        <prtBounds left="0" top="0" width="3103" height="276"/>
+       </infos>
+       <Finish/>
+      </txt>
+     </cell>
+    </row>
+   </tab>
+   <txt ptr="0x7f3690015010" id="67" symbol="11SwTextFrame" prev="59" upper="58" txtNodeIndex="17">
+    <infos>
+     <bounds left="8181" top="84200" width="9638" height="276" mbFixSize="false"/>
+     <prtBounds left="0" top="0" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+  </footer>
+ </page>
+ <page ptr="0x7f3692e34740" id="69" symbol="11SwPageFrame" next="70" prev="56" upper="4">
+  <infos>
+   <bounds left="18953" top="68772" width="0" height="0" mbFixSize="true"/>
+   <prtBounds left="0" top="0" width="0" height="0"/>
+  </infos>
+ </page>
+ <page ptr="0x7f3692e34828" id="70" symbol="11SwPageFrame" next="83" prev="69" upper="4" lower="71">
+  <infos>
+   <bounds left="7047" top="85894" width="11906" height="16838" mbFixSize="true"/>
+   <prtBounds left="1134" top="1134" width="9638" height="14570"/>
+  </infos>
+  <body ptr="0x7f3692e364b0" id="71" symbol="11SwBodyFrame" next="72" upper="70" lower="68">
+   <infos>
+    <bounds left="8181" top="87028" width="9638" height="13624" mbFixSize="true"/>
+    <prtBounds left="0" top="0" width="9638" height="13624"/>
+   </infos>
+   <txt ptr="0x7f3690015118" id="68" symbol="11SwTextFrame" upper="71" txtNodeIndex="45">
+    <infos>
+     <bounds left="8181" top="87028" width="9638" height="659" mbFixSize="false"/>
+     <prtBounds left="0" top="240" width="9638" height="419"/>
+    </infos>
+Segons    <Finish/>
+   </txt>
+  </body>
+  <footer ptr="0x7f3690010258" id="72" symbol="13SwFooterFrame" prev="71" upper="70" lower="73" fmtName="Right footer" fmtPtr="0x7f3692e30498">
+   <infos>
+    <bounds left="8181" top="100652" width="9638" height="946" mbFixSize="false"/>
+    <prtBounds left="0" top="283" width="9638" height="663"/>
+   </infos>
+   <tab ptr="0x7f3690011300" id="73" symbol="10SwTabFrame" next="81" upper="72" lower="74">
+    <infos>
+     <bounds left="8181" top="100935" width="9638" height="387" mbFixSize="false"/>
+     <prtBounds left="0" top="0" width="9638" height="387"/>
+    </infos>
+    <row ptr="0x7f36900122b8" id="74" symbol="10SwRowFrame" upper="73" lower="75">
+     <infos>
+      <bounds left="8181" top="100935" width="9638" height="387" mbFixSize="false"/>
+      <prtBounds left="0" top="0" width="9638" height="387"/>
+     </infos>
+     <cell ptr="0x7f3690013750" id="75" symbol="11SwCellFrame" next="77" upper="74" lower="76">
+      <infos>
+       <bounds left="8181" top="100935" width="3212" height="387" mbFixSize="false"/>
+       <prtBounds left="55" top="56" width="3102" height="276"/>
+      </infos>
+      <txt ptr="0x7f3690015220" id="76" symbol="11SwTextFrame" upper="75" txtNodeIndex="8">
+       <infos>
+        <bounds left="8236" top="100991" width="3102" height="276" mbFixSize="false"/>
+        <prtBounds left="0" top="0" width="3102" height="276"/>
+       </infos>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7f3690013820" id="77" symbol="11SwCellFrame" next="79" prev="75" upper="74" lower="78">
+      <infos>
+       <bounds left="11393" top="100935" width="3213" height="387" mbFixSize="false"/>
+       <prtBounds left="55" top="56" width="3103" height="276"/>
+      </infos>
+      <txt ptr="0x7f3690015328" id="78" symbol="11SwTextFrame" upper="77" txtNodeIndex="11">
+       <infos>
+        <bounds left="11448" top="100991" width="3103" height="276" mbFixSize="false"/>
+        <prtBounds left="0" top="0" width="3103" height="276"/>
+       </infos>
+*       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7f36900138f0" id="79" symbol="11SwCellFrame" prev="77" upper="74" lower="80">
+      <infos>
+       <bounds left="14606" top="100935" width="3213" height="387" mbFixSize="false"/>
+       <prtBounds left="55" top="56" width="3103" height="276"/>
+      </infos>
+      <txt ptr="0x7f3690015430" id="80" symbol="11SwTextFrame" upper="79" txtNodeIndex="14">
+       <infos>
+        <bounds left="14661" top="100991" width="3103" height="276" mbFixSize="false"/>
+        <prtBounds left="0" top="0" width="3103" height="276"/>
+       </infos>
+       <Finish/>
+      </txt>
+     </cell>
+    </row>
+   </tab>
+   <txt ptr="0x7f3690015538" id="81" symbol="11SwTextFrame" prev="73" upper="72" txtNodeIndex="17">
+    <infos>
+     <bounds left="8181" top="101322" width="9638" height="276" mbFixSize="false"/>
+     <prtBounds left="0" top="0" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+  </footer>
+ </page>
+ <page ptr="0x7f3692e34910" id="83" symbol="11SwPageFrame" next="84" prev="70" upper="4">
+  <infos>
+   <bounds left="18953" top="85894" width="0" height="0" mbFixSize="true"/>
+   <prtBounds left="0" top="0" width="0" height="0"/>
+  </infos>
+ </page>
+ <page ptr="0x7f3692e349f8" id="84" symbol="11SwPageFrame" next="97" prev="83" upper="4" lower="85">
+  <infos>
+   <bounds left="7047" top="103016" width="11906" height="16838" mbFixSize="true"/>
+   <prtBounds left="1134" top="1134" width="9638" height="14570"/>
+  </infos>
+  <body ptr="0x7f3692e36578" id="85" symbol="11SwBodyFrame" next="86" upper="84" lower="82">
+   <infos>
+    <bounds left="8181" top="104150" width="9638" height="13624" mbFixSize="true"/>
+    <prtBounds left="0" top="0" width="9638" height="13624"/>
+   </infos>
+   <txt ptr="0x7f3690015640" id="82" symbol="11SwTextFrame" upper="85" txtNodeIndex="46">
+    <infos>
+     <bounds left="8181" top="104150" width="9638" height="571" mbFixSize="false"/>
+     <prtBounds left="0" top="200" width="9638" height="371"/>
+    </infos>
+arròs al forn    <Finish/>
+   </txt>
+  </body>
+  <footer ptr="0x7f3690010320" id="86" symbol="13SwFooterFrame" prev="85" upper="84" lower="87" fmtName="Right footer" fmtPtr="0x7f3692e30498">
+   <infos>
+    <bounds left="8181" top="117774" width="9638" height="946" mbFixSize="false"/>
+    <prtBounds left="0" top="283" width="9638" height="663"/>
+   </infos>
+   <tab ptr="0x7f3690011400" id="87" symbol="10SwTabFrame" next="95" upper="86" lower="88">
+    <infos>
+     <bounds left="8181" top="118057" width="9638" height="387" mbFixSize="false"/>
+     <prtBounds left="0" top="0" width="9638" height="387"/>
+    </infos>
+    <row ptr="0x7f36900123a0" id="88" symbol="10SwRowFrame" upper="87" lower="89">
+     <infos>
+      <bounds left="8181" top="118057" width="9638" height="387" mbFixSize="false"/>
+      <prtBounds left="0" top="0" width="9638" height="387"/>
+     </infos>
+     <cell ptr="0x7f36900139c0" id="89" symbol="11SwCellFrame" next="91" upper="88" lower="90">
+      <infos>
+       <bounds left="8181" top="118057" width="3212" height="387" mbFixSize="false"/>
+       <prtBounds left="55" top="56" width="3102" height="276"/>
+      </infos>
+      <txt ptr="0x7f3690015748" id="90" symbol="11SwTextFrame" upper="89" txtNodeIndex="8">
+       <infos>
+        <bounds left="8236" top="118113" width="3102" height="276" mbFixSize="false"/>
+        <prtBounds left="0" top="0" width="3102" height="276"/>
+       </infos>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7f3690013a90" id="91" symbol="11SwCellFrame" next="93" prev="89" upper="88" lower="92">
+      <infos>
+       <bounds left="11393" top="118057" width="3213" height="387" mbFixSize="false"/>
+       <prtBounds left="55" top="56" width="3103" height="276"/>
+      </infos>
+      <txt ptr="0x7f3690015850" id="92" symbol="11SwTextFrame" upper="91" txtNodeIndex="11">
+       <infos>
+        <bounds left="11448" top="118113" width="3103" height="276" mbFixSize="false"/>
+        <prtBounds left="0" top="0" width="3103" height="276"/>
+       </infos>
+*       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7f3690013b60" id="93" symbol="11SwCellFrame" prev="91" upper="88" lower="94">
+      <infos>
+       <bounds left="14606" top="118057" width="3213" height="387" mbFixSize="false"/>
+       <prtBounds left="55" top="56" width="3103" height="276"/>
+      </infos>
+      <txt ptr="0x7f3690015958" id="94" symbol="11SwTextFrame" upper="93" txtNodeIndex="14">
+       <infos>
+        <bounds left="14661" top="118113" width="3103" height="276" mbFixSize="false"/>
+        <prtBounds left="0" top="0" width="3103" height="276"/>
+       </infos>
+       <Finish/>
+      </txt>
+     </cell>
+    </row>
+   </tab>
+   <txt ptr="0x7f3690015a60" id="95" symbol="11SwTextFrame" prev="87" upper="86" txtNodeIndex="17">
+    <infos>
+     <bounds left="8181" top="118444" width="9638" height="276" mbFixSize="false"/>
+     <prtBounds left="0" top="0" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+  </footer>
+ </page>
+ <page ptr="0x7f3692e34ae0" id="97" symbol="11SwPageFrame" next="98" prev="84" upper="4">
+  <infos>
+   <bounds left="18953" top="103016" width="0" height="0" mbFixSize="true"/>
+   <prtBounds left="0" top="0" width="0" height="0"/>
+  </infos>
+ </page>
+ <page ptr="0x7f3692e34bc8" id="98" symbol="11SwPageFrame" next="111" prev="97" upper="4" lower="99">
+  <infos>
+   <bounds left="7047" top="120138" width="11906" height="16838" mbFixSize="true"/>
+   <prtBounds left="1134" top="1134" width="9638" height="14570"/>
+  </infos>
+  <body ptr="0x7f3692e36640" id="99" symbol="11SwBodyFrame" next="100" upper="98" lower="96">
+   <infos>
+    <bounds left="8181" top="121272" width="9638" height="13624" mbFixSize="true"/>
+    <prtBounds left="0" top="0" width="9638" height="13624"/>
+   </infos>
+   <txt ptr="0x7f3690015b68" id="96" symbol="11SwTextFrame" upper="99" txtNodeIndex="47">
+    <infos>
+     <bounds left="8181" top="121272" width="9638" height="571" mbFixSize="false"/>
+     <prtBounds left="0" top="200" width="9638" height="371"/>
+    </infos>
+Fideuà    <Finish/>
+   </txt>
+  </body>
+  <footer ptr="0x7f36900103e8" id="100" symbol="13SwFooterFrame" prev="99" upper="98" lower="101" fmtName="Right footer" fmtPtr="0x7f3692e30498">
+   <infos>
+    <bounds left="8181" top="134896" width="9638" height="946" mbFixSize="false"/>
+    <prtBounds left="0" top="283" width="9638" height="663"/>
+   </infos>
+   <tab ptr="0x7f3690011500" id="101" symbol="10SwTabFrame" next="109" upper="100" lower="102">
+    <infos>
+     <bounds left="8181" top="135179" width="9638" height="387" mbFixSize="false"/>
+     <prtBounds left="0" top="0" width="9638" height="387"/>
+    </infos>
+    <row ptr="0x7f3690012488" id="102" symbol="10SwRowFrame" upper="101" lower="103">
+     <infos>
+      <bounds left="8181" top="135179" width="9638" height="387" mbFixSize="false"/>
+      <prtBounds left="0" top="0" width="9638" height="387"/>
+     </infos>
+     <cell ptr="0x7f3690013c30" id="103" symbol="11SwCellFrame" next="105" upper="102" lower="104">
+      <infos>
+       <bounds left="8181" top="135179" width="3212" height="387" mbFixSize="false"/>
+       <prtBounds left="55" top="56" width="3102" height="276"/>
+      </infos>
+      <txt ptr="0x7f3690015c70" id="104" symbol="11SwTextFrame" upper="103" txtNodeIndex="8">
+       <infos>
+        <bounds left="8236" top="135235" width="3102" height="276" mbFixSize="false"/>
+        <prtBounds left="0" top="0" width="3102" height="276"/>
+       </infos>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7f3690013d00" id="105" symbol="11SwCellFrame" next="107" prev="103" upper="102" lower="106">
+      <infos>
+       <bounds left="11393" top="135179" width="3213" height="387" mbFixSize="false"/>
+       <prtBounds left="55" top="56" width="3103" height="276"/>
+      </infos>
+      <txt ptr="0x7f3690015d78" id="106" symbol="11SwTextFrame" upper="105" txtNodeIndex="11">
+       <infos>
+        <bounds left="11448" top="135235" width="3103" height="276" mbFixSize="false"/>
+        <prtBounds left="0" top="0" width="3103" height="276"/>
+       </infos>
+*       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7f3690013dd0" id="107" symbol="11SwCellFrame" prev="105" upper="102" lower="108">
+      <infos>
+       <bounds left="14606" top="135179" width="3213" height="387" mbFixSize="false"/>
+       <prtBounds left="55" top="56" width="3103" height="276"/>
+      </infos>
+      <txt ptr="0x7f3690015e80" id="108" symbol="11SwTextFrame" upper="107" txtNodeIndex="14">
+       <infos>
+        <bounds left="14661" top="135235" width="3103" height="276" mbFixSize="false"/>
+        <prtBounds left="0" top="0" width="3103" height="276"/>
+       </infos>
+       <Finish/>
+      </txt>
+     </cell>
+    </row>
+   </tab>
+   <txt ptr="0x7f3690016018" id="109" symbol="11SwTextFrame" prev="101" upper="100" txtNodeIndex="17">
+    <infos>
+     <bounds left="8181" top="135566" width="9638" height="276" mbFixSize="false"/>
+     <prtBounds left="0" top="0" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+  </footer>
+ </page>
+ <page ptr="0x7f3692e34cb0" id="111" symbol="11SwPageFrame" next="112" prev="98" upper="4">
+  <infos>
+   <bounds left="18953" top="120138" width="0" height="0" mbFixSize="true"/>
+   <prtBounds left="0" top="0" width="0" height="0"/>
+  </infos>
+ </page>
+ <page ptr="0x7f3692e34d98" id="112" symbol="11SwPageFrame" next="125" prev="111" upper="4" lower="113">
+  <infos>
+   <bounds left="7047" top="137260" width="11906" height="16838" mbFixSize="true"/>
+   <prtBounds left="1134" top="1134" width="9638" height="14570"/>
+  </infos>
+  <body ptr="0x7f3692e36708" id="113" symbol="11SwBodyFrame" next="114" upper="112" lower="110">
+   <infos>
+    <bounds left="8181" top="138394" width="9638" height="13624" mbFixSize="true"/>
+    <prtBounds left="0" top="0" width="9638" height="13624"/>
+   </infos>
+   <txt ptr="0x7f3690016120" id="110" symbol="11SwTextFrame" upper="113" txtNodeIndex="48">
+    <infos>
+     <bounds left="8181" top="138394" width="9638" height="659" mbFixSize="false"/>
+     <prtBounds left="0" top="240" width="9638" height="419"/>
+    </infos>
+Postres    <Finish/>
+   </txt>
+  </body>
+  <footer ptr="0x7f36900104b0" id="114" symbol="13SwFooterFrame" prev="113" upper="112" lower="115" fmtName="Right footer" fmtPtr="0x7f3692e30498">
+   <infos>
+    <bounds left="8181" top="152018" width="9638" height="946" mbFixSize="false"/>
+    <prtBounds left="0" top="283" width="9638" height="663"/>
+   </infos>
+   <tab ptr="0x7f3690011600" id="115" symbol="10SwTabFrame" next="123" upper="114" lower="116">
+    <infos>
+     <bounds left="8181" top="152301" width="9638" height="387" mbFixSize="false"/>
+     <prtBounds left="0" top="0" width="9638" height="387"/>
+    </infos>
+    <row ptr="0x7f3690012570" id="116" symbol="10SwRowFrame" upper="115" lower="117">
+     <infos>
+      <bounds left="8181" top="152301" width="9638" height="387" mbFixSize="false"/>
+      <prtBounds left="0" top="0" width="9638" height="387"/>
+     </infos>
+     <cell ptr="0x7f3690013ea0" id="117" symbol="11SwCellFrame" next="119" upper="116" lower="118">
+      <infos>
+       <bounds left="8181" top="152301" width="3212" height="387" mbFixSize="false"/>
+       <prtBounds left="55" top="56" width="3102" height="276"/>
+      </infos>
+      <txt ptr="0x7f3690016228" id="118" symbol="11SwTextFrame" upper="117" txtNodeIndex="8">
+       <infos>
+        <bounds left="8236" top="152357" width="3102" height="276" mbFixSize="false"/>
+        <prtBounds left="0" top="0" width="3102" height="276"/>
+       </infos>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7f3690017008" id="119" symbol="11SwCellFrame" next="121" prev="117" upper="116" lower="120">
+      <infos>
+       <bounds left="11393" top="152301" width="3213" height="387" mbFixSize="false"/>
+       <prtBounds left="55" top="56" width="3103" height="276"/>
+      </infos>
+      <txt ptr="0x7f3690016330" id="120" symbol="11SwTextFrame" upper="119" txtNodeIndex="11">
+       <infos>
+        <bounds left="11448" top="152357" width="3103" height="276" mbFixSize="false"/>
+        <prtBounds left="0" top="0" width="3103" height="276"/>
+       </infos>
+*       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7f36900170d8" id="121" symbol="11SwCellFrame" prev="119" upper="116" lower="122">
+      <infos>
+       <bounds left="14606" top="152301" width="3213" height="387" mbFixSize="false"/>
+       <prtBounds left="55" top="56" width="3103" height="276"/>
+      </infos>
+      <txt ptr="0x7f3690016438" id="122" symbol="11SwTextFrame" upper="121" txtNodeIndex="14">
+       <infos>
+        <bounds left="14661" top="152357" width="3103" height="276" mbFixSize="false"/>
+        <prtBounds left="0" top="0" width="3103" height="276"/>
+       </infos>
+       <Finish/>
+      </txt>
+     </cell>
+    </row>
+   </tab>
+   <txt ptr="0x7f3690016540" id="123" symbol="11SwTextFrame" prev="115" upper="114" txtNodeIndex="17">
+    <infos>
+     <bounds left="8181" top="152688" width="9638" height="276" mbFixSize="false"/>
+     <prtBounds left="0" top="0" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+  </footer>
+ </page>
+ <page ptr="0x7f3692e34e80" id="125" symbol="11SwPageFrame" next="126" prev="112" upper="4">
+  <infos>
+   <bounds left="18953" top="137260" width="0" height="0" mbFixSize="true"/>
+   <prtBounds left="0" top="0" width="0" height="0"/>
+  </infos>
+ </page>
+ <page ptr="0x7f3690018008" id="126" symbol="11SwPageFrame" next="139" prev="125" upper="4" lower="127">
+  <infos>
+   <bounds left="7047" top="154382" width="11906" height="16838" mbFixSize="true"/>
+   <prtBounds left="1134" top="1134" width="9638" height="14570"/>
+  </infos>
+  <body ptr="0x7f3692e367d0" id="127" symbol="11SwBodyFrame" next="128" upper="126" lower="124">
+   <infos>
+    <bounds left="8181" top="155516" width="9638" height="13624" mbFixSize="true"/>
+    <prtBounds left="0" top="0" width="9638" height="13624"/>
+   </infos>
+   <txt ptr="0x7f3690016648" id="124" symbol="11SwTextFrame" upper="127" txtNodeIndex="49">
+    <infos>
+     <bounds left="8181" top="155516" width="9638" height="571" mbFixSize="false"/>
+     <prtBounds left="0" top="200" width="9638" height="371"/>
+    </infos>
+Sopa de síndria    <Finish/>
+   </txt>
+  </body>
+  <footer ptr="0x7f3690010578" id="128" symbol="13SwFooterFrame" prev="127" upper="126" lower="129" fmtName="Right footer" fmtPtr="0x7f3692e30498">
+   <infos>
+    <bounds left="8181" top="169140" width="9638" height="946" mbFixSize="false"/>
+    <prtBounds left="0" top="283" width="9638" height="663"/>
+   </infos>
+   <tab ptr="0x7f3690011700" id="129" symbol="10SwTabFrame" next="137" upper="128" lower="130">
+    <infos>
+     <bounds left="8181" top="169423" width="9638" height="387" mbFixSize="false"/>
+     <prtBounds left="0" top="0" width="9638" height="387"/>
+    </infos>
+    <row ptr="0x7f3690012658" id="130" symbol="10SwRowFrame" upper="129" lower="131">
+     <infos>
+      <bounds left="8181" top="169423" width="9638" height="387" mbFixSize="false"/>
+      <prtBounds left="0" top="0" width="9638" height="387"/>
+     </infos>
+     <cell ptr="0x7f36900171a8" id="131" symbol="11SwCellFrame" next="133" upper="130" lower="132">
+      <infos>
+       <bounds left="8181" top="169423" width="3212" height="387" mbFixSize="false"/>
+       <prtBounds left="55" top="56" width="3102" height="276"/>
+      </infos>
+      <txt ptr="0x7f3690016750" id="132" symbol="11SwTextFrame" upper="131" txtNodeIndex="8">
+       <infos>
+        <bounds left="8236" top="169479" width="3102" height="276" mbFixSize="false"/>
+        <prtBounds left="0" top="0" width="3102" height="276"/>
+       </infos>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7f3690017278" id="133" symbol="11SwCellFrame" next="135" prev="131" upper="130" lower="134">
+      <infos>
+       <bounds left="11393" top="169423" width="3213" height="387" mbFixSize="false"/>
+       <prtBounds left="55" top="56" width="3103" height="276"/>
+      </infos>
+      <txt ptr="0x7f3690016858" id="134" symbol="11SwTextFrame" upper="133" txtNodeIndex="11">
+       <infos>
+        <bounds left="11448" top="169479" width="3103" height="276" mbFixSize="false"/>
+        <prtBounds left="0" top="0" width="3103" height="276"/>
+       </infos>
+*       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7f3690017348" id="135" symbol="11SwCellFrame" prev="133" upper="130" lower="136">
+      <infos>
+       <bounds left="14606" top="169423" width="3213" height="387" mbFixSize="false"/>
+       <prtBounds left="55" top="56" width="3103" height="276"/>
+      </infos>
+      <txt ptr="0x7f3690016960" id="136" symbol="11SwTextFrame" upper="135" txtNodeIndex="14">
+       <infos>
+        <bounds left="14661" top="169479" width="3103" height="276" mbFixSize="false"/>
+        <prtBounds left="0" top="0" width="3103" height="276"/>
+       </infos>
+       <Finish/>
+      </txt>
+     </cell>
+    </row>
+   </tab>
+   <txt ptr="0x7f3690016a68" id="137" symbol="11SwTextFrame" prev="129" upper="128" txtNodeIndex="17">
+    <infos>
+     <bounds left="8181" top="169810" width="9638" height="276" mbFixSize="false"/>
+     <prtBounds left="0" top="0" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+  </footer>
+ </page>
+ <page ptr="0x7f36900180f0" id="139" symbol="11SwPageFrame" next="140" prev="126" upper="4">
+  <infos>
+   <bounds left="18953" top="154382" width="0" height="0" mbFixSize="true"/>
+   <prtBounds left="0" top="0" width="0" height="0"/>
+  </infos>
+ </page>
+ <page ptr="0x7f36900181d8" id="140" symbol="11SwPageFrame" prev="139" upper="4" lower="141">
+  <infos>
+   <bounds left="7047" top="171504" width="11906" height="16838" mbFixSize="true"/>
+   <prtBounds left="1134" top="1134" width="9638" height="14570"/>
+  </infos>
+  <body ptr="0x7f3692e36898" id="141" symbol="11SwBodyFrame" next="142" upper="140" lower="138">
+   <infos>
+    <bounds left="8181" top="172638" width="9638" height="13624" mbFixSize="true"/>
+    <prtBounds left="0" top="0" width="9638" height="13624"/>
+   </infos>
+   <txt ptr="0x7f3690016b70" id="138" symbol="11SwTextFrame" upper="141" txtNodeIndex="50">
+    <infos>
+     <bounds left="8181" top="172638" width="9638" height="571" mbFixSize="false"/>
+     <prtBounds left="0" top="200" width="9638" height="371"/>
+    </infos>
+Llesquetes en ou    <Finish/>
+   </txt>
+  </body>
+  <footer ptr="0x7f3690010640" id="142" symbol="13SwFooterFrame" prev="141" upper="140" lower="143" fmtName="Right footer" fmtPtr="0x7f3692e30498">
+   <infos>
+    <bounds left="8181" top="186262" width="9638" height="946" mbFixSize="false"/>
+    <prtBounds left="0" top="283" width="9638" height="663"/>
+   </infos>
+   <tab ptr="0x7f3690011800" id="143" symbol="10SwTabFrame" next="151" upper="142" lower="144">
+    <infos>
+     <bounds left="8181" top="186545" width="9638" height="387" mbFixSize="false"/>
+     <prtBounds left="0" top="0" width="9638" height="387"/>
+    </infos>
+    <row ptr="0x7f3690012740" id="144" symbol="10SwRowFrame" upper="143" lower="145">
+     <infos>
+      <bounds left="8181" top="186545" width="9638" height="387" mbFixSize="false"/>
+      <prtBounds left="0" top="0" width="9638" height="387"/>
+     </infos>
+     <cell ptr="0x7f3690017418" id="145" symbol="11SwCellFrame" next="147" upper="144" lower="146">
+      <infos>
+       <bounds left="8181" top="186545" width="3212" height="387" mbFixSize="false"/>
+       <prtBounds left="55" top="56" width="3102" height="276"/>
+      </infos>
+      <txt ptr="0x7f3690016c78" id="146" symbol="11SwTextFrame" upper="145" txtNodeIndex="8">
+       <infos>
+        <bounds left="8236" top="186601" width="3102" height="276" mbFixSize="false"/>
+        <prtBounds left="0" top="0" width="3102" height="276"/>
+       </infos>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7f36900174e8" id="147" symbol="11SwCellFrame" next="149" prev="145" upper="144" lower="148">
+      <infos>
+       <bounds left="11393" top="186545" width="3213" height="387" mbFixSize="false"/>
+       <prtBounds left="55" top="56" width="3103" height="276"/>
+      </infos>
+      <txt ptr="0x7f3690016d80" id="148" symbol="11SwTextFrame" upper="147" txtNodeIndex="11">
+       <infos>
+        <bounds left="11448" top="186601" width="3103" height="276" mbFixSize="false"/>
+        <prtBounds left="0" top="0" width="3103" height="276"/>
+       </infos>
+*       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7f36900175b8" id="149" symbol="11SwCellFrame" prev="147" upper="144" lower="150">
+      <infos>
+       <bounds left="14606" top="186545" width="3213" height="387" mbFixSize="false"/>
+       <prtBounds left="55" top="56" width="3103" height="276"/>
+      </infos>
+      <txt ptr="0x7f3690016e88" id="150" symbol="11SwTextFrame" upper="149" txtNodeIndex="14">
+       <infos>
+        <bounds left="14661" top="186601" width="3103" height="276" mbFixSize="false"/>
+        <prtBounds left="0" top="0" width="3103" height="276"/>
+       </infos>
+       <Finish/>
+      </txt>
+     </cell>
+    </row>
+   </tab>
+   <txt ptr="0x7f3690019020" id="151" symbol="11SwTextFrame" prev="143" upper="142" txtNodeIndex="17">
+    <infos>
+     <bounds left="8181" top="186932" width="9638" height="276" mbFixSize="false"/>
+     <prtBounds left="0" top="0" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+  </footer>
+ </page>
+</root>
